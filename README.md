@@ -1,2 +1,2 @@
-# apolloserver-sequelize-graphql-mysql-boiler
-apolloserver-sequelize-graphql-mysql-boiler
+# GraphQL API with Apollo 2.0 Sequelize and Express.js
+ 
